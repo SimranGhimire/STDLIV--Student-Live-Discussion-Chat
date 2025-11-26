@@ -3,7 +3,7 @@
 # STDLIV--Student-Live-Discussion-Chat
 
 # Overview
-###STDLIV Student Live Discussion Chat is a real-time communication platform designed to encourage academic collaboration and intellectual exchange among students. The system provides an interactive space where learners can engage in meaningful conversations, share insights, and participate in topic-based discussion rooms.
+STDLIV Student Live Discussion Chat is a real-time communication platform designed to encourage academic collaboration and intellectual exchange among students. The system provides an interactive space where learners can engage in meaningful conversations, share insights, and participate in topic-based discussion rooms.
 
 
 # Features
