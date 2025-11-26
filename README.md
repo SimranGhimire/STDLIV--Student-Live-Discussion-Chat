@@ -50,7 +50,7 @@ http://localhost:3000
 
 # How It Works
 1. Users log in/register through PHP + SQL backend
-2. 2. The front-end connects to the Node.js server via Socket.io
+2. The front-end connects to the Node.js server via Socket.io
 3. Messages are broadcasted in real time to all connected users or specific rooms
 4. The interface automatically updates with no page reload
 
